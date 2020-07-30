@@ -1,0 +1,197 @@
+{
+  "categorias": [
+    {
+      "titulo": "Bolofofos",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6c0aad",
+      "link_extra": {
+        "text": "Vá ao canal!",
+        "url": "https://www.youtube.com/user/bolofofosoficial"
+      },
+      "videos": [
+        {
+          "titulo": "DOMINGO ABACAXI FLAMINGO | Bolofofos",
+          "url": "https://www.youtube.com/watch?v=NL2ZHPji3Z0"
+        },
+        {
+          "titulo": "FUNK do Pão de Queijo | Bolofofos",
+          "url": "https://www.youtube.com/watch?v=1BZ5s6BcvKg"
+        },
+        {
+          "titulo": "DANÇA MALUCA | BOLOFOFOS",
+          "url": "https://www.youtube.com/watch?v=s11isTPr0Mw"
+        },
+        {
+          "titulo": "Bolofofos | Tô Milionário",
+          "url": "https://www.youtube.com/watch?v=ZtskQpAP1tw&t"
+        },
+        {
+          "titulo": "Tá na hora do PAPA | Bolofofos",
+          "url": "https://www.youtube.com/watch?v=kgA_WFHjRQA"
+        },
+        {
+          "titulo": "NOITE DAS MENINAS | BOLOFOFOS",
+          "url": "https://www.youtube.com/watch?v=LEQf5rslrYA"
+        },
+        {
+          "titulo": "Mamãe eu Risquei o Sofá | BOLOFOFOS ",
+          "url": "https://www.youtube.com/watch?v=oX_ca1TLEOk"
+        },
+        {
+          "titulo": "FIESTA LATINA | BOLOFOFOS",
+          "url": "https://www.youtube.com/watch?v=x6PZ-PVka0Y"
+        }        
+      ]
+    },
+    {
+      "titulo": "Galinha Pintadinha Mini",
+      "cor": "#25b5e9",
+      "link_extra": {
+        "text": "Vá ao canal!",
+        "url": "https://www.youtube.com/channel/UCs125V_JnMSSBG9U4rY9-aQ"
+      },
+      "videos": [
+        {
+          "titulo": "Galinha Pintadinha Mini - Episódio 40 Completo",
+          "url": "https://www.youtube.com/watch?v=VGw1OMUq9aE"
+        },
+        {
+          "titulo": "Galinha Pintadinha Mini - Episódio 33 Completo",
+          "url": "https://www.youtube.com/watch?v=AQZh33zw7lU"
+        },
+        {
+          "titulo": "Galinha Pintadinha Mini - Episódio 46 Completo",
+          "url": "https://www.youtube.com/watch?v=_cL8G7BYrhk"
+        },
+        {
+          "titulo": "Galinha Pintadinha Mini - Episódio 28 Completo",
+          "url": "https://www.youtube.com/watch?v=GjsdGgctO24"
+        }, 
+        {
+          "titulo": "Galinha Pintadinha Mini - Episódio 26 Completo",
+          "url": "https://www.youtube.com/watch?v=rraPaES7FRI"
+        }
+      ]
+    },
+    {
+      "titulo": "Mundo Bita",
+      "cor": "#f8dadc",
+      "link_extra": {
+        "text": "Vá ao canal!",
+        "url": "https://www.youtube.com/user/mrplotvideos"
+      },
+      "videos": [
+        {
+          "titulo": "Mundo Bita - Mãe Música ft. Vanessa da Mata",
+          "url": "https://www.youtube.com/watch?v=QoB7gWNchtc"
+        },
+        {
+          "titulo": "Mundo Bita - Magia das Cores",
+          "url": "https://www.youtube.com/watch?v=EW1Is3BVp5U"
+        },
+        {
+          "titulo": "Mundo Bita - Sinto o que Sinto",
+          "url": "https://www.youtube.com/watch?v=OEUXZ2uz1a4"
+        },
+        {
+          "titulo": "Mundo Bita - Fazendinha",
+          "url": "https://www.youtube.com/watch?v=cjONzZPJONc"
+        },
+        {
+          "titulo": "Mundo Bita - Bagunça De Criança",
+          "url": "https://www.youtube.com/watch?v=eiPE7YO_F30"
+        }
+      ]
+    },
+    {
+      "titulo": "Bia e Nino",
+      "cor": "#fed103",
+      "link_extra": {
+        "text": "Vá ao canal!",
+        "url": "https://www.youtube.com/user/MPBaby08"
+      },
+      "videos": [
+        {
+          "titulo": "GAROTA DE IPANEMA - Bia&Nino",
+          "url": "https://www.youtube.com/watch?v=HIW01DcQN-A"
+        },
+        {
+          "titulo": "Pombinha Branca - Bia&Nino",
+          "url": "https://www.youtube.com/watch?v=wNi8SZpfmMQ"
+        },
+        {
+          "titulo": "Chuva, Chuva - Bia&Nino",
+          "url": "https://www.youtube.com/watch?v=jfFRKovGtOc"
+        },
+        {
+          "titulo": "Dez Indiozinhos - Bia&Nino",
+          "url": "https://www.youtube.com/watch?v=IewrWcl_qmo"
+        },
+        {
+          "titulo": "A Dona Aranha - Bia&Nino",
+          "url": "https://www.youtube.com/watch?v=vq0MpBOnuLY"
+        }
+      ]
+    },
+    {
+      "titulo": "Peppa Pig",
+      "cor": "#ffb7e4",
+      "link_extra": {
+        "text": "Vá ao canal!",
+        "url": "https://www.youtube.com/user/OficialPeppa"
+      },
+      "videos": [
+        {
+          "titulo": "Caça ao ovo",
+          "url": "https://www.youtube.com/watch?v=b15JmFktJVU"
+        },
+        {
+          "titulo": "O passeio divertido da Peppa",
+          "url": "https://www.youtube.com/watch?v=oy31e7mJWys"
+        },
+        {
+          "titulo": "Peppa vai acampar",
+          "url": "https://www.youtube.com/watch?v=UbjLWW2r0s0"
+        },
+        {
+          "titulo": "Peppa vai ao teatro",
+          "url": "https://www.youtube.com/watch?v=Dmc34I0hkD4"
+        },
+        {
+          "titulo": "Peppa Pig Português Brasil 🔴 AO VIVO",
+          "url": "https://www.youtube.com/watch?v=TZN0tDzqvso"
+        }
+      ]
+    },
+    {
+      "titulo": "O Show da Luna!",
+      "cor": "#21016e",
+      "link_extra": {
+        "text": "Vá ao canal!",
+        "url": "https://www.youtube.com/user/OShowDaLuna"
+      },
+      "videos": [
+        {
+          "titulo": "Maravilhosa Fábrica de Chocolate 🍫",
+          "url": "https://www.youtube.com/watch?v=7d8uh_ITAiA"
+        },
+        {
+          "titulo": "O Amarelo que Ficou Verde 🟡+🔵=🟢",
+          "url": "https://www.youtube.com/watch?v=ZZamuTu29w0"
+        },
+        {
+          "titulo": "Verde Por Fora Vermelha Por Dentro 🍉",
+          "url": "https://www.youtube.com/watch?v=s2gIU9dZFI8"
+        },
+        {
+          "titulo": "50 minutos com Episódios Completos",
+          "url": "https://www.youtube.com/watch?v=Kw9JnlFW4uU"
+        },
+        {
+          "titulo": "Uma Coisa Vira Outra ♻",
+          "url": "https://www.youtube.com/watch?v=39sgC8qvYFk"
+        }
+      ]
+    }
+  ]
+}
