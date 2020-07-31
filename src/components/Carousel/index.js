@@ -5,7 +5,7 @@ import VideoCard from './components/VideoCard';
 function VideoCardGroup({
   ignoreFirstVideo,
   category,
-}) 
+})
 {
   const categoryTitle = category.titulo;
   const categoryColor = category.cor;
@@ -26,6 +26,7 @@ function VideoCardGroup({
         </>
       )}
       <VideoCardList>
+        
         {videos.map((video, index) => {
           if (ignoreFirstVideo && index === 0) {
             return null;
