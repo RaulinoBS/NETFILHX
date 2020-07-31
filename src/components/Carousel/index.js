@@ -15,7 +15,7 @@ function VideoCardGroup({
     <VideoCardGroupContainer>
       {categoryTitle && (
         <>
-          <Title style={{ backgroundColor: categoryColor || 'red' }}>
+          <Title style={{ backgroundColor: categoryColor || 'red' , color: '#141414' }}>
             {categoryTitle}
           </Title>
           {categoryExtraLink && 
